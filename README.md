@@ -22,7 +22,7 @@ Blatantly ripped off from [@jbranchaud/til](https://github.com/jbranchaud/til/bl
 * [HTML](#html)
 * [JavaScript](#javascript)
 * [Life](#life)
-* [OS X](#os)
+* [OS X](#os-x)
 * [PostgreSQL](#postgresql)
 * [Rails](#rails)
 * [React](#react)
